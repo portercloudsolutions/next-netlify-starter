@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Overbury Site Permit System" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by using the camera to scan a permits QR code
         </p>
       </main>
 
